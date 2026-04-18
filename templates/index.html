@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head >
+  	<link rel="stylesheet" type="text/css" href="static/style.css">
+ 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <title>Одевайся по погоде!</title>
+  </head>
+  <body>
+  	<form method="post" action="/weather" class="frm">
+  			<h3>Одевайся по погоде!</h3>
+  			<label for="city-select">Ваш город</label>
+			  <select name="city" id="city-select">
+			    <option value="Москва">Москва</option>
+			    <option value="Санкт-Петербург">Санкт-Петербург</option>
+			    <option value="Новосибирск">Новосибирск</option>
+			    <option value="Екатеринбург">Екатеринбург</option>
+			    <option value="Красноярск">Красноярск</option>
+			    <option value="Иркутск">Иркутск</option>
+			    <option value="Якутск">Якутск</option>
+			    <option value="Владивосток">Владивосток</option>
+			    <option value="Калининград">Калининград</option>
+			    <option value="Самара">Самара</option>
+			    <option value="Камчатка">Камчатка</option>
+			  </select>
+			<br/>
+	 		<input type="submit" value="Одеться по погоде" class="btn">   
+	</form>  
+    
+  </body>
+</html>

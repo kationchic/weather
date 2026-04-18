@@ -1,0 +1,57 @@
+{
+  "Москва": {
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "tz": "Europe/Moscow"
+  },
+  "Санкт-Петербург": {
+    "lat": 59.9343,
+    "lon": 30.3351,
+    "tz": "Europe/Moscow"
+  },
+  "Новосибирск": {
+    "lat": 55.0084,
+    "lon": 82.9357,
+    "tz": "Asia/Novosibirsk"
+  },
+  "Екатеринбург": {
+    "lat": 56.8389,
+    "lon": 60.6057,
+    "tz": "Asia/Yekaterinburg"
+  },
+  "Красноярск": {
+    "lat": 56.0152,
+    "lon": 92.8932,
+    "tz": "Asia/Krasnoyarsk"
+  },
+  "Иркутск": {
+    "lat": 52.2864,
+    "lon": 104.3050,
+    "tz": "Asia/Irkutsk"
+  },
+  "Якутск": {
+    "lat": 62.0355,
+    "lon": 129.6759,
+    "tz": "Asia/Yakutsk"
+  },
+  "Владивосток": {
+    "lat": 43.1333,
+    "lon": 131.9103,
+    "tz": "Asia/Vladivostok"
+  },
+  "Калининград": {
+    "lat": 54.7104,
+    "lon": 20.5071,
+    "tz": "Europe/Kaliningrad"
+  },
+  "Самара": {
+    "lat": 53.1959,
+    "lon": 50.1002,
+    "tz": "Europe/Samara"
+  },
+  "Камчатка": {
+    "lat": 52.9788,
+    "lon": 158.3948,
+    "tz": "Asia/Kamchatka"
+  }
+}
